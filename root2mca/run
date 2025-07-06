@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir $1mca
+cd $1mca
+../root2mca
