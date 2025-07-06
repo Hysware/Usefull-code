@@ -1,1 +1,3 @@
+Run root2mca like:  ./run runNumber, it will create a folder like 64mca. 
 
+auto_cali-0705.cpp: auto calibration
